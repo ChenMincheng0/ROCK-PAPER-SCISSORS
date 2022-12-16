@@ -1,5 +1,5 @@
 # ROCK-PAPER-SCISSORS
-[Demo Link]([https://amystodolist.netlify.app/](https://rock-paper-scissors-02.netlify.app/))
+[Demo Link](https://amystodolist.netlify.app/](https://rock-paper-scissors-02.netlify.app/)
 
 ## Technologies
 
